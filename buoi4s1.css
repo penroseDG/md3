@@ -1,0 +1,19 @@
+.button{
+    height: 80px;
+    width: 80px;
+    border-radius: 15%;
+    position: relative;
+    margin-left: 20px;
+    background-color: grey;
+} 
+.circle{
+    height: 30px;
+    width: 30px;
+    border-radius:80%;
+    background-color:red;
+    color: white;
+    text-align: center;
+    line-height:30px;
+    left:60px;
+    position: relative;
+}
